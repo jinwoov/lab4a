@@ -6,7 +6,7 @@
 This application is mobile/tablet and computer friendly. 
 
 ## Getting Started  
-Deployed website: https://dashboard.heroku.com/apps/cflab4ajin   
+Deployed website: https://cflab4ajin.herokuapp.com/   
 
 ## Architecture 
 To create this application used: Heroku, Vs Code, I-term2  
